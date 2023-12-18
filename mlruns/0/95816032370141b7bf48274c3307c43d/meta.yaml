@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/95816032370141b7bf48274c3307c43d/artifacts
+end_time: 1702927149635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95816032370141b7bf48274c3307c43d
+run_name: lgbm_pipeline
+run_uuid: 95816032370141b7bf48274c3307c43d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702927134838
+status: 3
+tags: []
+user_id: admin
