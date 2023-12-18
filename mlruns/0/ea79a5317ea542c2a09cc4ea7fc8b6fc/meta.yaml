@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ea79a5317ea542c2a09cc4ea7fc8b6fc/artifacts
+deleted_time: 1702911054990
+end_time: 1702910620161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ea79a5317ea542c2a09cc4ea7fc8b6fc
+run_name: catboost_pipeline
+run_uuid: ea79a5317ea542c2a09cc4ea7fc8b6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702910619954
+status: 4
+tags: []
+user_id: admin
